@@ -4,7 +4,7 @@ This project is a responsive landing page built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-A live demo of the landing page can be found [here](#).
+A live demo of the landing page can be found [https://ahmedrady66.github.io/PRODIGY_WD_01/](#).
 
 ## Features
 
